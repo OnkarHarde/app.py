@@ -1,2 +1,2 @@
 print("Hello, Streamlit!")
-printf("app is not working")
+print("app is not working")
